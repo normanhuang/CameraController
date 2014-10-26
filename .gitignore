@@ -1,3 +1,6 @@
 dev/dependencies/*
 *.sdf
+*.opensdf
+*.suo
 *.ipch
+dist/*
